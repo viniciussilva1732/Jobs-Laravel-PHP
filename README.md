@@ -17,9 +17,9 @@ Sistema web desenvolvido em Laravel para gerenciamento de informações sobre em
 ## 🛠️ Stack Tecnológico
 
 - **Backend:** Laravel 10.x
-- **Frontend:** Blade Templates, Bootstrap 5, JavaScript
-- **Banco de Dados:** SQLite (desenvolvimento) / MySQL (produção)
-- **Outras tecnologias:** jQuery, Ajax, HTML5, CSS3
+- **Frontend:** Blade Templates, Tailwind, JavaScript
+- **Banco de Dados:** SQLite (desenvolvimento)
+- **Outras tecnologias:** HTML5 e CSS3
 
 ## 📦 Instalação
 
